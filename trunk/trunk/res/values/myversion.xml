@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <integer name="versionCode">13</integer>
+        <string name="versionName">0.99.13</string>
+        <string name="build_at">25-Sep-2012 15:42</string>
+</resources>
