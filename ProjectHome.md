@@ -1,0 +1,1 @@
+This application allows you to connect to DUN interface for phones that support AT commands.
